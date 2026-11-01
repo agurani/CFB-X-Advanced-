@@ -48,6 +48,8 @@ https://github.com/agurani/CFB-X-Advanced-/edit/main/README.md#:~:text=screen6.P
 https://github.com/agurani/CFB-X-Advanced-/edit/main/README.md#:~:text=screen1.PNG
 https://github.com/agurani/CFB-X-Advanced-/edit/main/README.md#:~:text=screen1.PNG
 
+screen1.PNG
+
 ## Requirements
 
 - Xcode 16 or later
