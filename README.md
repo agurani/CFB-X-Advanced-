@@ -39,6 +39,8 @@ A SwiftUI app for browsing **Circulating Fluidized Bed (CFB) boiler** and **natu
 
 ![CFB-X Screenshot](screen1.PNG)
 
+<img src="screen1.PNG" alt="CFB-X Screenshot" width="100">
+
 https://github.com/agurani/CFB-X-Advanced-/edit/main/README.md#:~:text=screen1.PNG
 https://github.com/agurani/CFB-X-Advanced-/edit/main/README.md#:~:text=screen2.PNG
 https://github.com/agurani/CFB-X-Advanced-/edit/main/README.md#:~:text=screen3.PNG
