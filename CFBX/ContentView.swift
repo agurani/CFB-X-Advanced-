@@ -238,7 +238,7 @@ private struct TrendsView: View {
                         Text(description).font(.subheadline).foregroundStyle(Theme.muted)
                     }.padding(.top, 12)
                     content
-                    Text("CFB-X  •  ŞİŞECAM")
+                    Text("CFB-X  •  Agurani")
                         .font(.caption2.weight(.semibold)).tracking(1.2)
                         .foregroundStyle(Theme.muted).padding(.vertical, 8)
                 }
