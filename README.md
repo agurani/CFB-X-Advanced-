@@ -37,17 +37,14 @@ A SwiftUI app for browsing **Circulating Fluidized Bed (CFB) boiler** and **natu
 | ![Boiler](docs/boiler.png) | ![Burner](docs/burner.png) | ![Trends](docs/trends.png) | ![Compare](docs/compare.png) |
 -->
 
-
-
-<img src="screen1.PNG" alt="CFB-X Screenshot" width="300">
-<img src="screen2.PNG" alt="CFB-X Screenshot" width="300">
-<img src="screen3.PNG" alt="CFB-X Screenshot" width="300">
-<img src="screen4.PNG" alt="CFB-X Screenshot" width="300">
-<img src="screen5.PNG" alt="CFB-X Screenshot" width="300">
-<img src="screen6.PNG" alt="CFB-X Screenshot" width="300">
-
-
-
+<p align="center">
+  <img src="screen1.PNG" alt="Boiler" width="220">
+  <img src="screen2.PNG" alt="Burner" width="220">
+  <img src="screen3.PNG" alt="Trends" width="220">
+  <img src="screen4.PNG" alt="Compare" width="220">
+  <img src="screen5.PNG" alt="Compare" width="220">
+  <img src="screen6.PNG" alt="Compare" width="220">
+</p>
 
 
 
