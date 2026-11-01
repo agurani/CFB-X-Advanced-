@@ -37,24 +37,14 @@ A SwiftUI app for browsing **Circulating Fluidized Bed (CFB) boiler** and **natu
 | ![Boiler](docs/boiler.png) | ![Burner](docs/burner.png) | ![Trends](docs/trends.png) | ![Compare](docs/compare.png) |
 -->
 
-![CFB-X Screenshot](screen1.PNG)
 
-<img src="screen1.PNG" alt="CFB-X Screenshot" width="100">
 
-https://github.com/agurani/CFB-X-Advanced-/edit/main/README.md#:~:text=screen1.PNG
-https://github.com/agurani/CFB-X-Advanced-/edit/main/README.md#:~:text=screen2.PNG
-https://github.com/agurani/CFB-X-Advanced-/edit/main/README.md#:~:text=screen3.PNG
-https://github.com/agurani/CFB-X-Advanced-/edit/main/README.md#:~:text=screen4.PNG
-https://github.com/agurani/CFB-X-Advanced-/edit/main/README.md#:~:text=screen5.PNG
-https://github.com/agurani/CFB-X-Advanced-/edit/main/README.md#:~:text=screen6.PNG
-
-<a href="url"><img src="https://github.com/agurani/CFB-X-Advanced-/blob/master/screen1.PNG" align="left" height="334" width="187" ></a> 
-<a href="url"><img src="https://github.com/agurani/CFBx/blob/master/CFB/CFB/IMG_3882.PNG" align="left" height="334" width="187" ></a> <br/> 
-https://github.com/agurani/CFB-X-Advanced-/edit/main/README.md#:~:text=screen1.PNG
-https://github.com/agurani/CFB-X-Advanced-/edit/main/README.md#:~:text=screen1.PNG
-
-screen1.PNG
-
+<img src="screen1.PNG" alt="CFB-X Screenshot" width="300">
+<img src="screen2.PNG" alt="CFB-X Screenshot" width="300">
+<img src="screen3.PNG" alt="CFB-X Screenshot" width="300">
+<img src="screen4.PNG" alt="CFB-X Screenshot" width="300">
+<img src="screen5.PNG" alt="CFB-X Screenshot" width="300">
+<img src="screen6.PNG" alt="CFB-X Screenshot" width="300">
 
 
 
