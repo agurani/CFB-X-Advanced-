@@ -50,6 +50,20 @@ https://github.com/agurani/CFB-X-Advanced-/edit/main/README.md#:~:text=screen1.P
 
 screen1.PNG
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Requirements
 
 - Xcode 16 or later
